@@ -6,7 +6,7 @@ class App < Sinatra::Base
     "Welcome to your app!!!! I'm trying to make a change."
   end
 
-  get '/abby'do
+  get '/abby' do
     "whats up. itsyogoirlabby"
 end
 end
